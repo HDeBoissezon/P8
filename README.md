@@ -1,4 +1,5 @@
 # P8 : Déploiement d’un modèle dans le cloud
+Ce projet s'inscrit dans le cadre de la formation Data Scientist délivrée par **OpenClassRooms** et **Centrale Supélec**.
 
 La start-up Fruits! cherche à préserver la biodiversité des fruits en permettant des traitements spécifiques pour chaque espèce de fruit en développant des robots cueilleurs intelligents
 Fruits! souhaite mettre à disposition du grand public une application mobile de reconnaissance des fruits afin de sensibiliser le public à la biodiversité des fruits et mettre en place un moteur de classification des images de fruits.
